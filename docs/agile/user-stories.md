@@ -8,15 +8,15 @@ Platform edukasi belajar bahasa Jerman berbasis Next.js. Dokumen ini berisi daft
 
 | ID    | User Story                  | Feature           | Issue | Prioritas | Story Point | Assignee | Sprint | Status      |
 | ----- | --------------------------- | ----------------- | ----- | --------- | ----------- | -------- | ------ | ----------- |
-| US-01 | Mengakses halaman Home      | Halaman Home      | #1    | High      | 3           | (isi)    | 1      | Done        |
-| US-02 | Menggunakan navigasi        | Navbar            | #2    | High      | 2           | (isi)    | 1      | Done        |
-| US-03 | Memilih level belajar       | LevelList         | #3    | High      | 3           | (isi)    | 1      | Done        |
-| US-04 | Membuka halaman pelajaran   | Halaman Pelajaran | #5    | High      | 5           | (isi)    | 1      | In Progress |
-| US-05 | Menggunakan fitur kuis      | Fitur Kuis        | #6    | Medium    | 8           | (isi)    | -      | Backlog     |
-| US-06 | Menggunakan fitur progres   | Fitur Progres     | #7    | Medium    | 5           | (isi)    | -      | Backlog     |
-| US-07 | Menggunakan fitur flashcard | Fitur Flashcard   | #8    | Medium    | 5           | (isi)    | -      | Backlog     |
-| US-08 | Menggunakan fitur pelajaran | Fitur Pelajaran   | #9    | High      | 5           | (isi)    | -      | Backlog     |
-| US-09 | Membuka halaman kuis        | Halaman Kuis      | #10   | Medium    | 5           | (isi)    | -      | Backlog     |
+| US-01 | Mengakses halaman Home      | Halaman Home      | #1    | High      | 3           | hafidz   | 1      | Done        |
+| US-02 | Menggunakan navigasi        | Navbar            | #2    | High      | 2           | hafidz   | 1      | Done        |
+| US-03 | Memilih level belajar       | LevelList         | #3    | High      | 3           | hafidz   | 1      | Done        |
+| US-04 | Membuka halaman pelajaran   | Halaman Pelajaran | #5    | High      | 5           | elsa     | 1      | In Progress |
+| US-05 | Menggunakan fitur kuis      | Fitur Kuis        | #6    | Medium    | 8           | hafidz   | -      | Backlog     |
+| US-06 | Menggunakan fitur progres   | Fitur Progres     | #7    | Medium    | 5           | elsa     | -      | Backlog     |
+| US-07 | Menggunakan fitur flashcard | Fitur Flashcard   | #8    | Medium    | 5           | elsa     | -      | Backlog     |
+| US-08 | Menggunakan fitur pelajaran | Fitur Pelajaran   | #9    | High      | 5           | elsa     | -      | Backlog     |
+| US-09 | Membuka halaman kuis        | Halaman Kuis      | #10   | Medium    | 5           | hafidz   | -      | Backlog     |
 | US-10 | Membuka halaman flashcard   | Halaman Flashcard | #11   | Medium    | 3           | (isi)    | -      | Backlog     |
 | US-11 | Membuka halaman progress    | Halaman Progress  | #12   | Low       | 3           | (isi)    | -      | Backlog     |
 
