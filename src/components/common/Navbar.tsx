@@ -10,6 +10,7 @@ const links = [
   { href: "/flashcard", label: "Flashcard" },
   { href: "/quiz", label: "Kuis" },
   { href: "/progress", label: "Progress" },
+  { href: "/login", label: "Login" },
 ];
 
 export default function Navbar() {
